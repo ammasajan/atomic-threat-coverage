@@ -546,3 +546,5 @@ Absolutely. We also have some Detection Rules which couldn't be automatically co
 ## License
 
 See the [LICENSE](LICENSE) file.
+
+https://attack.mitre.org/mitigations/enterprise/
